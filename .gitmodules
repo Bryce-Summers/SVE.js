@@ -1,0 +1,3 @@
+[submodule "modules/CORE.js"]
+	path = modules/CORE.js
+	url = https://github.com/Bryce-Summers/CORE.js.git

@@ -1,5 +1,6 @@
 # SVE.js
+Written by Bryce Summers
+
 Short Visual Experiments, where I can have fun implementing some algorithms and ideas.
 
-This file also contains starter code for quickly setting up web runnable project that accepts time, mouse, and keyboard inputs and outputs rendered frames using THREE.JS
-
+This project uses my CORE.js framework and Bryce Data Structures (BDS) Library to construct a series of short algorithmic sketches.
